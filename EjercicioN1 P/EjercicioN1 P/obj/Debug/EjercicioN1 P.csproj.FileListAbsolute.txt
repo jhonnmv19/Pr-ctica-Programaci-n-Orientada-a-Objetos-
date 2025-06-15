@@ -1,0 +1,11 @@
+C:\Users\arnol\source\repos\EjercicioN1 P\EjercicioN1 P\bin\Debug\EjercicioN1 P.exe.config
+C:\Users\arnol\source\repos\EjercicioN1 P\EjercicioN1 P\bin\Debug\EjercicioN1 P.exe
+C:\Users\arnol\source\repos\EjercicioN1 P\EjercicioN1 P\bin\Debug\EjercicioN1 P.pdb
+C:\Users\arnol\source\repos\EjercicioN1 P\EjercicioN1 P\obj\Debug\EjercicioN1 P.csproj.AssemblyReference.cache
+C:\Users\arnol\source\repos\EjercicioN1 P\EjercicioN1 P\obj\Debug\EjercicioN1_P.Form1.resources
+C:\Users\arnol\source\repos\EjercicioN1 P\EjercicioN1 P\obj\Debug\EjercicioN1_P.Properties.Resources.resources
+C:\Users\arnol\source\repos\EjercicioN1 P\EjercicioN1 P\obj\Debug\EjercicioN1 P.csproj.GenerateResource.cache
+C:\Users\arnol\source\repos\EjercicioN1 P\EjercicioN1 P\obj\Debug\EjercicioN1 P.csproj.CoreCompileInputs.cache
+C:\Users\arnol\source\repos\EjercicioN1 P\EjercicioN1 P\obj\Debug\EjercicioN1 P.exe
+C:\Users\arnol\source\repos\EjercicioN1 P\EjercicioN1 P\obj\Debug\EjercicioN1 P.pdb
+C:\Users\arnol\source\repos\EjercicioN1 P\EjercicioN1 P\obj\Debug\TuProyecto.Form1.resources
