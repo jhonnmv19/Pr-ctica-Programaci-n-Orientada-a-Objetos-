@@ -1,0 +1,10 @@
+C:\Users\arnol\source\repos\Progrmacion Web\EjercicioN4_p\EjercicioN4_p\obj\Debug\EjercicioN4_p.csproj.AssemblyReference.cache
+C:\Users\arnol\source\repos\Progrmacion Web\EjercicioN4_p\EjercicioN4_p\obj\Debug\EjercicioN4_p.Form1.resources
+C:\Users\arnol\source\repos\Progrmacion Web\EjercicioN4_p\EjercicioN4_p\obj\Debug\EjercicioN4_p.Properties.Resources.resources
+C:\Users\arnol\source\repos\Progrmacion Web\EjercicioN4_p\EjercicioN4_p\obj\Debug\EjercicioN4_p.csproj.GenerateResource.cache
+C:\Users\arnol\source\repos\Progrmacion Web\EjercicioN4_p\EjercicioN4_p\obj\Debug\EjercicioN4_p.csproj.CoreCompileInputs.cache
+C:\Users\arnol\source\repos\Progrmacion Web\EjercicioN4_p\EjercicioN4_p\bin\Debug\EjercicioN4_p.exe.config
+C:\Users\arnol\source\repos\Progrmacion Web\EjercicioN4_p\EjercicioN4_p\bin\Debug\EjercicioN4_p.exe
+C:\Users\arnol\source\repos\Progrmacion Web\EjercicioN4_p\EjercicioN4_p\bin\Debug\EjercicioN4_p.pdb
+C:\Users\arnol\source\repos\Progrmacion Web\EjercicioN4_p\EjercicioN4_p\obj\Debug\EjercicioN4_p.exe
+C:\Users\arnol\source\repos\Progrmacion Web\EjercicioN4_p\EjercicioN4_p\obj\Debug\EjercicioN4_p.pdb
